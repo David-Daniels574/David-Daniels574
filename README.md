@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [David Daniels]  
+# 👋 Hey there! I'm David Daniels  
 
 🚀 Passionate **Computer Engineering student** with a strong foundation in **Backend development, AI/ML, and System design**.  
 I love solving real-world problems with code and continuously learning new technologies to sharpen my skills.  
