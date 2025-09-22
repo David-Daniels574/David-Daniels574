@@ -14,44 +14,45 @@ I love solving real-world problems with code and continuously learning new techn
 
 ## 🛠️ Tech Stack  
 
-**💻 Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+**💻 Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) 
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge) 
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge) 
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)  
 
 
-**🛠 Backend Development:**  
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
+**🛠 Backend Development**  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge) 
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)  
 
 
-**🗄 Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+**🗄 Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)  
 
 
-**🤖 AI / ML & Data Science:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+**🤖 AI / ML & Data Science**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)  
 
 
-**⚙ Tools & DevOps:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
+**⚙ Tools & DevOps**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)  
 
 
-**☁ Cloud & Hosting:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)  
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=github&logoColor=white)  
+**☁ Cloud & Hosting**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge) 
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=github&logoColor=white&style=for-the-badge)  
+
 
 
 
