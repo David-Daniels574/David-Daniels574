@@ -37,6 +37,6 @@ I love building scalable distributed systems, designing efficient data pipelines
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anonymous-574&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anonymous-574&theme=radical)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous-574&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anonymous-574&show_icons=true&theme=radical&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com/?user=anonymous-574&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous-574&layout=compact&theme=radical&cache_seconds=86400)  
